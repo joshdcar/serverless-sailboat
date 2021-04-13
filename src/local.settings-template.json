@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "[Storage Connection String]",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "runHeadless": true,
+      "ImageStorage": "[Storage Connection String]",
+      "CosmosUrl": "[Cosmos URL]",
+      "CosmosKey": "[Cosmos Key]",
+      "CosmosDbConnection": "[Cosmos Connection String]",
+      "YachtWorldSearchUrl": "https://www.yachtworld.com/boats-for-sale/condition-used/type-sail/region-northamerica/country-united-states/us-region-southeast/us-region-mid-atlantic/?length=30-40&price=5000-35000",
+      "PLAYWRIGHT_BROWSERS_PATH": "0"
+    }
+  }
+  
